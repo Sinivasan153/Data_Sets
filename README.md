@@ -43,4 +43,4 @@ streamlit-option-menu
 
 The data was cloned from https://github.com/PhonePe/pulse.git
 
-linkedin video link:https://www.linkedin.com/posts/sinivasan-d-3664951a4_datavisualization-phonepeplusdata-phonepe-activity-7050382349695401984--RDY?utm_source=share&utm_medium=member_desktop
+Linkedin video link:https://www.linkedin.com/posts/sinivasan-d-3664951a4_datavisualization-phonepeplusdata-phonepe-activity-7050382349695401984--RDY?utm_source=share&utm_medium=member_desktop
