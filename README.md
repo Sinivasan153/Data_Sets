@@ -32,17 +32,11 @@ Using the "mysql-connector-python" library to connect to the MySQL database and 
 Packages:
 
 streamlit
-
 pandas
-
 streamlit_lottie
-
 mysql-connector-python
-
 plotly-express
-
 geopandas
-
 streamlit-option-menu
 
 Data
